@@ -1,4 +1,4 @@
-# Hey 👋, I'm [NFS-Project](https://t.me/Bella_Aprilia_27)!
+# Hey 👋, I'm [NFS-Project](https://t.me/NFSProjects)!
 
 - 🎓 I’m a college student 
 - 🌱 I'm currently learning C++ (?)
